@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Id": "window-snap-cycle",
+        "Name": "Window Snap Cycle",
+        "Description": "Snap windows left, right, center or fill; repeat the shortcut to cycle sizes",
+        "Version": "1.0",
+        "License": "MIT",
+        "Authors": [{ "Name": "me" }]
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
